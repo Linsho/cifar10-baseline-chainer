@@ -13,6 +13,6 @@ This repository is an example of an CIFAR10 baseline in a neural network (LeNet5
 1. Install pipenv
 2. Clone this repository
 3. Run `pipenv install`
-4. Run `sh jupyter_run.sh` and start jupyter server or run `pipenv run python mnist_baseline.py`
+4. Run `sh jupyter_run.sh` and start jupyter server
 5. You can get training logs in `results/baseline`
 
