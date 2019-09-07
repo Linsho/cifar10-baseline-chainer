@@ -12,6 +12,8 @@ chainer = "*"
 jupyter = "*"
 pandas = "*"
 matplotlib = "*"
+pillow = "*"
+chaineripy = "*"
 
 [requires]
 python_version = "3.6"
