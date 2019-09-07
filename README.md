@@ -1,6 +1,6 @@
-# MNIST Baseline
+# CIFAR10 Baseline
 
-This repository is an example of an MNIST baseline in a neural network (LeNet5, ResNet).
+This repository is an example of an CIFAR10 baseline in a neural network (LeNet5, ResNet).
 このリポジトリはニューラルネット(LeNet5, ResNet)におけるMNISTのベースラインの一例です。
 
 ## Environment
@@ -14,5 +14,5 @@ This repository is an example of an MNIST baseline in a neural network (LeNet5, 
 2. Clone this repository
 3. Run `pipenv install`
 4. Run `sh jupyter_run.sh` and start jupyter server or run `pipenv run python mnist_baseline.py`
-5. You can get training logs in `results/tmp`
+5. You can get training logs in `results/baseline`
 
